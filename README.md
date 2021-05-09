@@ -24,6 +24,8 @@ total amount: 1 quadrillion (10^15)
 
 Current wear mode :2, wear rate value: 100, wear starting at : 10000 LOST( >200M LOST single transaction will lost 20% max)
 
+Never have new mint.We will transfer ownership to Multi-signature wallet.
+
 deployed at:
 
 https://bscscan.com/address/0x865514DC562579d2e93B62800AdC080A60753438#code
@@ -54,6 +56,8 @@ Lost 币已发布在 BSC ，已经将90%部分流动性注入到 [PancakeSwap](h
 总量1千万亿
 
 当前磨损模式 2，磨损率值：100 ，磨损起始额度：10000 （单笔转账超过10000LOST开始磨损，在2亿左右达到最大值 20% 磨损率）
+
+将永远不增加新的币总量。拥有权限将移交到新的多重签名钱包供投票操作。
 
 Discord: https://discord.gg/qcyBxDFstT
 
