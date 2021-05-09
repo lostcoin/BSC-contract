@@ -14,7 +14,7 @@ We can precisely control the transfer loss, and can effectively overcome the eff
 
 The owner of this contract can then be transferred to a multi-signature wallet, so organization can control the wear factor together.
 
-Lost coin has been released on BSC and add 90% of total amount liquidity has been added into pancakeSwap,
+Lost coin has been deployed on Binance Smart Chain and add 90% of total amount liquidity has been added into [PancakeSwap](https://exchange.pancakeswap.finance/),
 
 Contract address: 0x865514DC562579d2e93B62800AdC080A60753438
 
@@ -41,7 +41,7 @@ Lost 磨损币：
 
 2.大额磨损：交易额越大，磨损越大，单笔交易最高为20%，例如：转账1个亿，会有20%的磨损。
 
-Lost 币已发布在 BSC ，已经将90%部分流动性注入到pancake，
+Lost 币已发布在 BSC ，已经将90%部分流动性注入到 [PancakeSwap](https://exchange.pancakeswap.finance/)，
 
 合约地址：0x865514DC562579d2e93B62800AdC080A60753438
 
