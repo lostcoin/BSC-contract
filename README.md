@@ -30,7 +30,9 @@ Discord: https://discord.gg/qcyBxDFstT
 
 Telegram: https://t.me/lostcoin_1
 
+-----------
 Chinese:
+
 Lost 磨损币：
 
 通过在交易中不断磨损，不断消耗，从而使得币增值
