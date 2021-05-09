@@ -18,6 +18,8 @@ Lost coin has been deployed on Binance Smart Chain and add 90% of total amount l
 
 Contract address: 0x865514DC562579d2e93B62800AdC080A60753438
 
+45% liquidity in USDT/LOST pair,and 45% of total amount liquidity in BNB/LOST pair.
+
 total amount: 1 quadrillion (10^15)
 
 Current wear mode :2, wear rate value: 100, wear starting at : 10000 LOST( >200M LOST single transaction will lost 20% max)
@@ -46,6 +48,8 @@ Lost 磨损币：
 Lost 币已发布在 BSC ，已经将90%部分流动性注入到 [PancakeSwap](https://exchange.pancakeswap.finance/)，
 
 合约地址：0x865514DC562579d2e93B62800AdC080A60753438
+
+45% 总量 USDT/LOST 交易对, 45% 总量流动性在 BNB/LOST 交易对.
 
 总量1千万亿
 
