@@ -59,3 +59,37 @@ Discord: https://discord.gg/qcyBxDFstT
 
 Telegram: https://t.me/lostcoin_1
 
+
+main code:
+
+```
+
+function _transfer(address sender, address recipient, uint256 amount) internal {
+    require(sender != address(0), "BEP20: transfer from the zero address");
+    require(recipient != address(0), "BEP20: transfer to the zero address");
+    
+    _balances[sender] = _balances[sender].sub(amount, "BEP20: transfer amount exceeds balance");
+    uint256 amount0 = amount;
+    
+    if(_lostType==1){
+        if(_lostRate != 100000){
+            amount = amount.mul(_lostRate).div(100000);
+            require(amount0>=amount,"lost overflow");
+            _totalSupply -= amount0 - amount;
+        }
+    }else if (_lostType==2){
+        if (amount > _lostStart ){
+            //_lostRate should 100 ,0.01%
+            uint256 fix1000 = amount.mul( _lostRate ).div(100000);
+            if (fix1000> (20000)){
+                fix1000 = (20000);
+            }
+            amount = amount.mul(100000 - fix1000).div(100000);
+            require(amount0>=amount,"lost overflow 2");
+            _totalSupply -= amount0 - amount;
+        }
+    }
+    _balances[recipient] = _balances[recipient].add(amount) ;
+    emit Transfer(sender, recipient, amount);
+  }
+```
