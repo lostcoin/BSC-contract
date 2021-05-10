@@ -135,9 +135,9 @@ https://urlzs.com/qXXJY
 
 填写表单以获取空投：
 
-LOST 流失币空投
+LOST 流失币空投 （一个群空投10亿，最多10个群）
 
-https://docs.qq.com/form/page/DS3JwaVJWV25CUGpm
+https://docs.qq.com/form/page/DUVRBTE13SUFUR3hU
 
 
 空投规则：填写表单获取10000000000LOST空投，将此消息转发至微信群奖励1000000000个LOST，每人上限10个群！
