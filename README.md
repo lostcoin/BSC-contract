@@ -1,5 +1,60 @@
 # BSC-contract
 
+LOST-LostCoin:
+
+All rules of LOST are written into smart contracts, and everyone is based on the principle of fairness, making LOST a deflationary currency that continues to burn.
+
+Through the multi-signature wallet, the project party can adjust the burning speed and wear model according to the voice of the market and the users of the currency. The current transfer of 200 million will reach the loss limit of 20%.
+
+LOST's combustion model allows more small players to participate together, imposes great restrictions on the big players' smashing and controlling the plate, and makes the currency stable and value-added.
+
+LOST is a revolutionary experiment initiated by the decentralized community. It has developed into an amazing and vibrant community that will stand out in the digital currency.
+
+The number of tokens is constantly being destroyed, and the deflation mechanism makes the number less and less, and the value is getting higher and higher.
+
+
+Club community slogan:
+
+Missed 23 million times of Bitcoin (BTC), don't miss the lost coin (LOST)!
+
+Missed the 140,000 times shit coin (SHIB), don't miss the lost coin (LOST)!
+
+Missed 94,000 times the Dogecoin (DOGE), don't miss the lost coin (LOST)!
+
+Grasp the next one hundred thousand times of LOST, don't regret it! Don't lose again!
+
+
+BSC Pancakeswap
+
+Contract address; 0x865514DC562579d2e93B62800AdC080A60753438
+
+The contract code has been made public and verified.
+
+wBNB purchase MARAB coin link:
+
+https://bit.ly/3bi2nKa
+
+https://urlzs.com/4w19T
+
+USDT to buy MARAB coin link:
+
+https://urlzs.com/qXXJY
+
+
+Fill out the form to get the airdrop:
+
+LOST lost currency airdrop
+
+https://docs.qq.com/form/page/DS3JwaVJWV25CUGpm
+
+
+Airdrop rules: fill in the form to get 10000000000LOST airdrop, forward this message to WeChat group to reward 1000000000 MARAB, each person has a limit of 10 groups!
+
+Reposting rewards will be counted by Telegram, and you need to join the group chat of the Lost community
+
+Telegram group link: https://t.me/LostCoin_1
+
+
 Lost Coin:
 
 Through continuous wear and tear and continuous consumption in transactions, the currency will increase it's value
@@ -36,6 +91,61 @@ Telegram: https://t.me/lostcoin_1
 
 -----------
 Chinese:
+
+LOST - LostCoin，流失币
+
+LOST 所有规则都写进智能合约，所有人都基于公平原则，让LOST成为一直持续燃烧的通缩的币种。
+
+项目方通过多重签名钱包可以根据市场和持币用户呼声调控燃烧速度，磨损模型。目前转账2个亿会达到流失上限20%。
+
+LOST 的燃烧模型可以让更多的小玩家一起来参与，对大玩家砸盘和控盘做出极大限制，让币稳定增值。
+
+LOST 是去中心化社区发起的一场革命性实验，已发展成为一个惊人而充满活力的社区 ，将在数字货币中脱颖而出。
+
+代币数量不断销毁，通缩机制使得数量越来越少，价值越来越高。
+
+
+Club社区口号：
+
+错过了2300万倍的比特币（BTC），别错过流失币（LOST）！
+
+错过了14万倍的狗屎币（SHIB），别错过流失币（LOST）！
+
+错过了9万4千倍的狗狗币（DOGE），别错过流失币（LOST）！
+
+把握LOST下一个十万倍币，不要再遗憾！不用再失落！
+
+
+BSC Pancakeswap
+
+合约地址；0x865514DC562579d2e93B62800AdC080A60753438
+
+合约代码已经公开并通过验证。
+
+wBNB购买MARAB币链接：
+
+https://bit.ly/3bi2nKa
+
+https://urlzs.com/4w19T
+
+USDT购买MARAB币链接：
+
+https://urlzs.com/qXXJY
+
+
+填写表单以获取空投：
+
+LOST 流失币空投
+
+https://docs.qq.com/form/page/DS3JwaVJWV25CUGpm
+
+
+空投规则：填写表单获取10000000000LOST空投，将此消息转发至微信群奖励1000000000个MARAB，每人上限10个群！
+
+转发奖励将由Telegram统计，需要加入Lost社区的群聊                  
+
+电报群链接：https://t.me/LostCoin_1
+
 
 Lost 磨损币：
 
