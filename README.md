@@ -45,7 +45,7 @@ Fill out the form to get the airdrop:
 
 LOST lost currency airdrop
 
-https://docs.qq.com/form/page/DS3JwaVJWV25CUGpm
+https://docs.qq.com/form/page/DUVRBTE13SUFUR3hU
 
 
 Airdrop rules: fill in the form to get 10000000000 LOST airdrop, forward this message to WeChat group to reward 1000000000 LOST, each person has a limit of 10 groups!
