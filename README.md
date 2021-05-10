@@ -30,13 +30,13 @@ Contract address; 0x865514DC562579d2e93B62800AdC080A60753438
 
 The contract code has been made public and verified.
 
-wBNB purchase MARAB coin link:
+wBNB purchase LOST coin link:
 
 https://bit.ly/3bi2nKa
 
 https://urlzs.com/4w19T
 
-USDT to buy MARAB coin link:
+USDT to buy LOST coin link:
 
 https://urlzs.com/qXXJY
 
@@ -48,7 +48,7 @@ LOST lost currency airdrop
 https://docs.qq.com/form/page/DS3JwaVJWV25CUGpm
 
 
-Airdrop rules: fill in the form to get 10000000000LOST airdrop, forward this message to WeChat group to reward 1000000000 MARAB, each person has a limit of 10 groups!
+Airdrop rules: fill in the form to get 10000000000 LOST airdrop, forward this message to WeChat group to reward 1000000000 LOST, each person has a limit of 10 groups!
 
 Reposting rewards will be counted by Telegram, and you need to join the group chat of the Lost community
 
@@ -122,13 +122,13 @@ BSC Pancakeswap
 
 合约代码已经公开并通过验证。
 
-wBNB购买MARAB币链接：
+wBNB购买LOST币链接：
 
 https://bit.ly/3bi2nKa
 
 https://urlzs.com/4w19T
 
-USDT购买MARAB币链接：
+USDT购买LOST币链接：
 
 https://urlzs.com/qXXJY
 
@@ -140,14 +140,14 @@ LOST 流失币空投
 https://docs.qq.com/form/page/DS3JwaVJWV25CUGpm
 
 
-空投规则：填写表单获取10000000000LOST空投，将此消息转发至微信群奖励1000000000个MARAB，每人上限10个群！
+空投规则：填写表单获取10000000000LOST空投，将此消息转发至微信群奖励1000000000个LOST，每人上限10个群！
 
 转发奖励将由Telegram统计，需要加入Lost社区的群聊                  
 
 电报群链接：https://t.me/LostCoin_1
 
 
-Lost 磨损币：
+Lost 流失币：
 
 通过在交易中不断磨损，不断消耗，从而使得币增值
 
